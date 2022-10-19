@@ -107,55 +107,53 @@ add link to the paper and to the video
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%" src="assets/logos.png">
 
 <table style="width: 90%">
-<thead>
     <tr>
 	<td>
 		<a href="https://planthub.idiv.de/iknow/">
-			<img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/iknow.png" alt="iKNOW">
+			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/iknow.png" alt="iKNOW">
 		</a>
 	</td>
     <td>
 		<a href="https://fusion.cs.uni-jena.de/fusion/">
-			<img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/fusion.png" alt="fusion">
+			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/fusion.png" alt="fusion">
 		</a>
 	</td>
     <td>
 		<a href="https://www.uni-jena.de/">
-			<img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/fsu.png" alt="FSU">
+			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/fsu.png" alt="FSU">
 		</a>
 	</td>
     <td>
 		<a href="https://www.idiv.de/en">
-			<img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/idiv.png" alt="iDiv">
+			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/idiv.png" alt="iDiv">
 		</a>
 	</td>
     <td>
 		<a href="https://planthub.idiv.de/">
-			<img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/planthub.png" alt="PlantHub">
+			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/planthub.png" alt="PlantHub">
 		</a>
 	</td>
     <td>
 		<a href="https://www.uni-leipzig.de/en">
-			<img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/leipzig.png" alt="UniLeipzig">
+			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/leipzig.png" alt="UniLeipzig">
 		</a>
 	</td>
     <td>
 		<a href="https://www.bgc-jena.mpg.de/">
-			<img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/max.png" alt="Max-Planck-Institut">
+			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/max.png" alt="Max-Planck-Institut">
 		</a>
 	</td>
     <td>
 		<a href="https://www.idiv.de/en/phenobs.html">
-			<img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/phenobs.png" alt="PhenObs">
+			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/phenobs.png" alt="PhenObs">
 		</a>
 	</td>
     <td>
 		<a href="https://www.idiv.de/de/forschung/flexpool.html">
-			<img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/flexpool.png" alt="Flexpool">
+			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/flexpool.png" alt="Flexpool">
 		</a>
 	</td>
 	</tr>
-</thead>
 </table>
 
 
