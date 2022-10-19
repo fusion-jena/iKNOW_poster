@@ -83,13 +83,13 @@ We use:
 
 # About Us
 
-- **Samira Babalou**, Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany; German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig.
-- **Erik Kleinsteuber**, Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany.
-- **Badr El Haouni**, Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany.
-- **Franziska Zander**, Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany; German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig.
-- **David Schellenberger Costa**, German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig.
-- **Jens Kattge**, German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig; Max Planck Institute for Biogeochemistry, Jena, Germany.
-- **Birgitta König-Ries**, Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany;  German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig
+- [Samira Babalou](https://fusion.cs.uni-jena.de/fusion/members/samira-babalou/), Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany; German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig.
+- *Erik Kleinsteuber*, Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany.
+- *Badr El Haouni*, Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany.
+- [Franziska Zander](https://fusion.cs.uni-jena.de/fusion/members/franziska-zander/), Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany; German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig.
+- [David Schellenberger Costa](https://www.lw.uni-leipzig.de/personenprofil/mitarbeiter/dr-david-schellenberger-costa), German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig.
+- [Jens Kattge](https://www.bgc-jena.mpg.de/person/jkattge/4717217), German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig; Max Planck Institute for Biogeochemistry, Jena, Germany.
+- [Birgitta König-Ries](https://fusion.cs.uni-jena.de/fusion/members/birgitta-konig-ries/), Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany;  German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig
 
 
 <!--
@@ -105,6 +105,37 @@ add link to the paper and to the video
 
 <br/> 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%" src="assets/logos.png">
+
+<div style="width: 80%">
+<a href="https://planthub.idiv.de/iknow/">
+  <img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/iknow.png" alt="iKNOW">
+</a>
+<a href="https://fusion.cs.uni-jena.de/fusion/">
+  <img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/fusion.png" alt="fusion">
+</a>
+<a href="https://www.uni-jena.de/">
+  <img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/fsu.png" alt="FSU">
+</a>
+<a href="https://www.idiv.de/en">
+  <img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/idiv.png" alt="iDiv">
+</a>
+<a href="https://planthub.idiv.de/">
+  <img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/planthub.png" alt="PlantHub">
+</a>
+<a href="https://www.uni-leipzig.de/en">
+  <img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/leipzig.png" alt="UniLeipzig">
+</a>
+<a href="https://www.bgc-jena.mpg.de/">
+  <img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/max.png" alt="Max-Planck-Institut">
+</a>
+<a href="https://www.idiv.de/en/phenobs.html">
+  <img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/phenobs.png" alt="PhenObs">
+</a>
+<a href="https://www.idiv.de/de/forschung/flexpool.html">
+  <img style="display: block; margin-left: auto; margin-right: auto; width: 10%" src="assets/flexpool.png" alt="Flexpool">
+</a>
+</div>
+
 
 <!--
 <img style="margin-left: auto; margin-right: auto; width: 60%" src="assets/logo.png">
