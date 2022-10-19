@@ -18,22 +18,25 @@ Once established, this platform will be open-source and available to the biodive
 
 The following Figure shows the planned architecture of iKNOW in five layers:
 
+<br/>
+<img style="display: block; margin-left: auto; margin-right: auto; width: 60%" src="assets/architecture.png">
+
 - In the **User Administration** layer, access level and security will be controlled. Authorized users can generate or update the KG. All end-users can search and visualize the KG. The platform's admin can add new tools or functionalities and approve the user registration. The KG curator curates the recent changes on the KG. 
 - The **Web-based UI** layer shows different scenarios for KG management: building a KG, updating the KG, visualizing the KG's triples, and keyword and SPARQL search.
 - The **Platform Services** provides a set of required services for the KG management functionalities. 
 - The **Data Access Infrastructure** manages the communication of services and data storage.
 - At the bottom level of the iKNOW platform, the **Data Storage** layer contains the graph database repository, provenance information, and user information management.
  
-<br/>
-<img style="display: block; margin-left: auto; margin-right: auto; width: 60%" src="assets/architecture.png">
-  
-  
   
   
 ## Workflow in the KG Creation Scenario at iKNOW
 The following Figure shows the planned iKNOW workflow for the KG creation scenario.
 
-- In the first step, users go through the authentication process. The verified users can upload their datasets. 
+<br/> 
+<img style="display: block; margin-left: auto; margin-right: auto; width: 80%" src="assets/workflow.png">
+
+
+- In the **User Authorization** step, users go through the authentication process. The verified users can upload their datasets. 
 - If required, the **Data Cleaning** process will take place. We offer different tools for this step, which users can select and adjust based on their needs. 
 - In the **Entity Extraction** step, we map the entities of the dataset to the corresponding concepts in the real world (which build instances of sub-KGs). This mapping is the basis for interlinking entities  with  external KGs like Wikidata or domain-specific ones. Each mapped entity is a node in the KG. For this process, we have embedded different tools at iKNOW, in which users can select the desired tool along with the desired external KGs.
 - In the **Relation Extraction** step, the relations between the KG's nodes will be extracted via the user-selected tool. 
@@ -50,9 +53,7 @@ After these processes, the generated sub-KG can be used directly. However, one c
 - In the **Pushing** step of our platform, the generated KGs are saved first at a temporal repository (shown by ``non-curated repository'' in the figure. 
 - After a manual data curation by domain experts in the **Curation** step, the KG will be published in the main repository of our platform. With this step, we aim to increase the trust and correctness of the information on the KG.
 
- 
-<img style="display: block; margin-left: auto; margin-right: auto; width: 80%" src="assets/workflow.png">
-<br/>
+
  
 
 
