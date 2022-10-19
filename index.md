@@ -10,8 +10,8 @@ Welcome to the website of the **iKNOW** poster @[ISWC_2022](https://iswc2022.sem
  * b
  
   <br/>
-  <img style="margin-left: auto; margin-right: auto; width: 80%" src="assets/architecture.pdf">
-  <img style="margin-left: auto; margin-right: auto; width: 80%" src="assets/workflow.pdf">
+  <img style="margin-left: auto; margin-right: auto; width: 80%" src="assets/architecture.png">
+  <img style="margin-left: auto; margin-right: auto; width: 80%" src="assets/workflow.png">
  <br/>
  
 
