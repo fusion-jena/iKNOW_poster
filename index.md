@@ -106,6 +106,7 @@ add link to the paper and to the video
 <br/> 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%" src="assets/logos.png">
 
+<!--
 <table style="width: 90%">
     <tr>
 	<td>
@@ -155,5 +156,5 @@ add link to the paper and to the video
 	</td>
 	</tr>
 </table>
-
+-->
 
