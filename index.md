@@ -54,8 +54,17 @@ After these processes, the generated sub-KG can be used directly. However, one c
 - After a manual data curation by domain experts in the **Curation** step, the KG will be published in the main repository of our platform. With this step, we aim to increase the trust and correctness of the information on the KG.
 
 
+### Example
+
+The following figure shows a sample Knowledge Graph for a given data source.
+
+<br/> 
+<img style="display: block; margin-left: auto; margin-right: auto; width: 80%" src="assets/example.png">
  
 
+### The planned functionalities include
+<br/> 
+<img style="display: block; margin-left: auto; margin-right: auto; width: 80%" src="assets/functionalities.png">
 
 ## Implementation
 
@@ -83,11 +92,20 @@ We use:
 - **Birgitta König-Ries**, Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany;  German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig
 
 
+<!--
+add link to the paper and to the video
+-->
+
 <br/>
 
 # Acknolwedgement
 
 * The work described in this paper is conducted in the iKNOW Flexpool project of iDiv, the German Centre for Integrative Biodiversity Research, funded by DFG (Project number 202548816).
+* We thank our colleague Sven Thiel for comments on the manuscript and the iKNOW PIs Helge Bruelheide, Christine Römermann and Christian Wirth for their insights into biodiversity research and data integration needs.
+
+<br/> 
+<img style="display: block; margin-left: auto; margin-right: auto; width: 100%" src="assets/logos.png">
+
 <!--
 <img style="margin-left: auto; margin-right: auto; width: 60%" src="assets/logo.png">
 -->
