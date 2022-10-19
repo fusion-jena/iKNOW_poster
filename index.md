@@ -1,5 +1,3 @@
-
-
 Welcome to the website of the **iKNOW** poster @[ISWC_2022](https://iswc2022.semanticweb.org/)! 
 
 # **iKNOW- A Knowledge Graph Management Platform for the Biodiversity Domain**
@@ -27,7 +25,7 @@ The following Figure shows the planned architecture of iKNOW in five layers:
 - At the bottom level of the iKNOW platform, the **Data Storage** layer contains the graph database repository, provenance information, and user information management.
  
 <br/>
-<img style="margin-left: auto; margin-right: auto; width: 80%" src="assets/architecture.png">
+<img style="display: block; margin-left: auto; margin-right: auto; width: 60%" src="assets/architecture.png">
   
   
   
@@ -52,11 +50,8 @@ After these processes, the generated sub-KG can be used directly. However, one c
 - In the **Pushing** step of our platform, the generated KGs are saved first at a temporal repository (shown by ``non-curated repository'' in the figure. 
 - After a manual data curation by domain experts in the **Curation** step, the KG will be published in the main repository of our platform. With this step, we aim to increase the trust and correctness of the information on the KG.
 
-
-All information regarding the user-selected tools with parameters and settings along with the initial dataset and intermediate results will be saved in every step of our platform. With the help of this, users can redo the previous steps (which shows by arrows in both directions). Moreover, this enables us to track the provenance of created sub-KG.
-In each step mentioned above, we plan to have a tool-recommendation service to help the user select the right tool for every process. For that, we will consider different parameters, such as the characteristics of the dataset and tools. 
  
-<img style="margin-left: auto; margin-right: auto; width: 80%" src="assets/workflow.png">
+<img style="display: block; margin-left: auto; margin-right: auto; width: 80%" src="assets/workflow.png">
 <br/>
  
 
@@ -73,10 +68,6 @@ We use:
 - For managing the triplestore, we are using the graph database [Blazegraph](https://blazegraph.com/).
 - The curated triplestore also serves as the base for SPARQL queries and the keyword search via search engine [Elasticsearch](www.elastic.co/elasticsearch/).
 
-
-iKNOW is a modular platform, which increases the flexibility of our platform and allows adding new tools.
-Our ultimate goal is to provide a large set of tool choices for the end-user. Although only a few tools are embedded so far, we plan  to add more tools for each functionality in the platform. Then users have a variety of choices with respect to different needs and use cases.
-Our open-source code and modular designs of our platform make both the front and backend of our platform easily extendable. We encourage users (new developers) to use or extend our reusable UI components to speed up their development.
  
 <br/>
 
