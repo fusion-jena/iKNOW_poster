@@ -92,9 +92,7 @@ We use:
 - [Birgitta König-Ries](https://fusion.cs.uni-jena.de/fusion/members/birgitta-konig-ries/), Heinz-Nixdorf Chair for Distributed Information Systems, Institute for Computer Science, Friedrich Schiller University Jena, Germany;  German Center for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig
 
 
-<!--
-add link to the paper and to the video
--->
+<a href="https://www.youtube.com/watch?v=aDOnvL5DLX0"> Link to our Video </a>
 
 <br/>
 
@@ -105,56 +103,3 @@ add link to the paper and to the video
 
 <br/> 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%" src="assets/logos.png">
-
-<!--
-<table style="width: 90%">
-    <tr>
-	<td>
-		<a href="https://planthub.idiv.de/iknow/">
-			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/iknow.png" alt="iKNOW">
-		</a>
-	</td>
-    <td>
-		<a href="https://fusion.cs.uni-jena.de/fusion/">
-			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/fusion.png" alt="fusion">
-		</a>
-	</td>
-    <td>
-		<a href="https://www.uni-jena.de/">
-			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/fsu.png" alt="FSU">
-		</a>
-	</td>
-    <td>
-		<a href="https://www.idiv.de/en">
-			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/idiv.png" alt="iDiv">
-		</a>
-	</td>
-    <td>
-		<a href="https://planthub.idiv.de/">
-			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/planthub.png" alt="PlantHub">
-		</a>
-	</td>
-    <td>
-		<a href="https://www.uni-leipzig.de/en">
-			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/leipzig.png" alt="UniLeipzig">
-		</a>
-	</td>
-    <td>
-		<a href="https://www.bgc-jena.mpg.de/">
-			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/max.png" alt="Max-Planck-Institut">
-		</a>
-	</td>
-    <td>
-		<a href="https://www.idiv.de/en/phenobs.html">
-			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/phenobs.png" alt="PhenObs">
-		</a>
-	</td>
-    <td>
-		<a href="https://www.idiv.de/de/forschung/flexpool.html">
-			<img style="display: block; margin-left: auto; margin-right: auto" src="assets/flexpool.png" alt="Flexpool">
-		</a>
-	</td>
-	</tr>
-</table>
--->
-
